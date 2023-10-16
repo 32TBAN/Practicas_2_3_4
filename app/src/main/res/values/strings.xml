@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Welcome to Android App Development!</string>
+    <string name="text_view_welcome">¡Bienvenido al Desarrollo de App Android!</string>
+    <string name="image_view_content_description">El logo de Deitel que tiene el insecto con dedos pulgares
+hacia arriba</string>
+
+    <string name="text_view_amount">Ingrese la cantidad</string>
+    <string name="tip_percentage" translatable="false">15%</string>
+    <string name="tip">Propina</string>
+    <string name="total" translatable="false">Total</string>
+
+</resources>
