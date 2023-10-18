@@ -4,7 +4,7 @@ plugins {
 
 android {
     namespace = "uta.fisei.practica_2_3_4"
-    compileSdk = 33
+    compileSdk = 34
 
     defaultConfig {
         applicationId = "uta.fisei.practica_2_3_4"
