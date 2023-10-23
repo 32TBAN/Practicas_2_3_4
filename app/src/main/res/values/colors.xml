@@ -4,5 +4,12 @@
     <color name="white">#FFFFFFFF</color>
     <color name="welcome_text_color">#2196F3</color>
     <color name="result_background">#FFE0B2</color>
-
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#448aff</color>
+    <color name="correct_answer">#00CC00</color>
+    <color name="wrong_answer">#FF0000</color>
+    <color name="button_enabled">#3F51B5</color>
+    <color name="button_pressed">#303F9F</color>
+    <color name="button_disabled">#7F7F7F</color>
 </resources>
