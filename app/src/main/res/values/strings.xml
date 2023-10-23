@@ -8,5 +8,23 @@ hacia arriba</string>
     <string name="tip_percentage" translatable="false">15%</string>
     <string name="tip">Propina</string>
     <string name="total" translatable="false">Total</string>
+    <string name="practica_4_text" translatable="false">Practica 4</string>
 
+    <string name="action_settings" translatable="false">Settings</string>
+    <string name="number_of_choices" translatable="false">Number of Choices</string>
+    <string name="number_of_choices_description" translatable="false">Display 2, 4, 6 or 8 guess buttons</string>
+    <string name="world_regions" translatable="false">Regions</string>
+    <string name="world_regions_description" translatable="false">Regions to include in the quiz</string>
+    <string name="guess_country" translatable="false">Guess the Country</string>
+    <string name="results" translatable="false">%1$d guesses, %2$.02f%% correct</string>
+    <string name="incorrect_answer" translatable="false">Incorrect!</string>
+    <string name="default_region_message" translatable="false">
+        One region must be selected. Setting Europe as the default region.
+    </string>
+    <string name="restarting_quiz" translatable="false">Quiz will restart with your new settings</string>
+    <string name="question" translatable="false">Question %1$d of %2$d</string>
+    <string name="reset_quiz" translatable="false">Reset Quiz</string>
+    <string name="image_description" translatable="false">Image of the current flag in the quiz</string>
+    <string name="default_region" translatable="false">Europe</string>
+    <string name="title_activity_settings" translatable="false">Settings</string>
 </resources>

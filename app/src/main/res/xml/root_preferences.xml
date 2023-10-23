@@ -1,0 +1,20 @@
+<PreferenceScreen xmlns:app="http://schemas.android.com/apk/res-auto">
+    <ListPreference
+        app:entries="@array/guesses_list"
+        app:entryValues="@array/guesses_list"
+        app:key="pref_numberOfChoices"
+        app:title="@string/number_of_choices"
+        app:summary="@string/number_of_choices_description"
+        app:persistent="true"
+        app:defaultValue="4" />
+
+    <MultiSelectListPreference
+        app:entries="@array/regions_list_for_settings"
+        app:entryValues="@array/region_list"
+        app:key="pref_regionsToInclude"
+        app:title="@string/world_regions"
+        app:summary="@string/world_regions_description"
+        app:persistent="true"
+        app:defaultValue="@array/region_list" />
+
+</PreferenceScreen>

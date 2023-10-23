@@ -9,11 +9,14 @@
         android:icon="@mipmap/ic_launcher"
         android:label="@string/app_name"
         android:roundIcon="@mipmap/ic_launcher_round"
+        android:screenOrientation="portrait"
         android:supportsRtl="true"
         android:theme="@style/Theme.Practica_2_3_4"
-        tools:targetApi="31"
-        android:screenOrientation="portrait"
-        android:windowSoftInputMode="stateAlwaysVisible">
+        android:windowSoftInputMode="stateAlwaysVisible"
+        tools:targetApi="31">
+        <activity
+            android:name=".Practica4"
+            android:exported="false" />
         <activity
             android:name=".Practica_2"
             android:exported="false" />
